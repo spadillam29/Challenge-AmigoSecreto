@@ -1,10 +1,10 @@
-# Amigo Secreto 🎁
+# Amigo Secreto
 
-Esta es una aplicación práctica desarrollada para un desafío de aprendizaje, que permite ingresar nombres de amigos y realizar un sorteo aleatorio para elegir un "Amigo Secreto".
+Esta es una aplicación desarrollada para un desafío del curso, que permite ingresar nombres de amigos y realizar un sorteo aleatorio para elegir un "Amigo Secreto".
 
 ## 🧠 Objetivo del proyecto
 
-Aplicar conceptos clave de programación en JavaScript:
+Apliqué conceptos clave de programación en JavaScript:
 - Variables
 - Arrays
 - Funciones
